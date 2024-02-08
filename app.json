@@ -1,0 +1,28 @@
+{
+    "name": "🔱 𝐙𝐄 🔱",
+    "description": "بوت حذف حسابات تليجرام",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "api_id": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "api_hash": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "bot_token": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+    }
+  }
+} 
